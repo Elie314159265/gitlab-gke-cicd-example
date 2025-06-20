@@ -1,4 +1,4 @@
-tLab × GKE CI/CD Pipeline Sample
+GitLab × GKE CI/CD Pipeline Sample
 
 このリポジトリは、GitLab CI/CD を使用して Google Kubernetes Engine (GKE) に自動デプロイする構成例です。
 
