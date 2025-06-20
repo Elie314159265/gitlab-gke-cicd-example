@@ -35,4 +35,4 @@ tLab × GKE CI/CD Pipeline Sample
 
 ## 📝 詳細な構築手順
 
-👉 Qiita記事にて詳細解説中：[GitLab × GKEでCI/CD構築する方法](https://qiita.com/your-article-link)
+👉 Qiita記事にて詳細解説中：[GitLab × GKEでCI/CD構築する方法](https://qiita.com/Elie1729/items/ad527d8617ac95bab751)
