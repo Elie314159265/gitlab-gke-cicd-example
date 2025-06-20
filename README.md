@@ -12,10 +12,10 @@ tLab × GKE CI/CD Pipeline Sample
 ## 📁 ディレクトリ構成
 
 
-├── .gitlab-ci.yml # GitLab CI定義
-├── k8s/
-│ ├── deployment.yaml # nginx Deployment
-│ └── service.yaml # LoadBalancer Service
+├── .gitlab-ci.yml # GitLab CI定義\n
+├── k8s/\n
+│ ├── deployment.yaml # nginx Deployment\n
+│ └── service.yaml # LoadBalancer Service\n
 
 
 ## 🔐 注意
